@@ -1,5 +1,8 @@
 _repo: A-Fool-and-His-Money_6325
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: McCutcheon, George Barr
@@ -11,6 +14,8 @@ creator:
 description: An American author of independent fortune buys a feudal castle in Germany,
   and on entering into occupancy finds the east wing of the castle inhabited by a
   beautiful but mysterious lady.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6325#A-Fool-and-His-Money
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
 identifiers:
